@@ -1,0 +1,835 @@
+
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+	<style type="text/css">
+        
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+}
+	</style>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Lanterna ULTRALUX</title><link rel="canonical" href="https://pagina.pro/lanterna-ultralux"/><link rel="shortcut icon" href="https://app.landingpage.com.br/img/favicon.ico"><meta property="og:title" content="Lanterna ULTRALUX" /><meta property="og:url" content="https://pagina.pro/lanterna-ultralux" /><meta property="og:type" content="website" /><meta property="og:locale" content="pt_BR" /><link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" id="lp-meta">
+<!-- Precisa dos 2 kits do fontawesome para carregar os .woff -->
+<!-- ICONES SVG -->
+<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=wndrI8YMsWLIijaHzRhUWfrw46e_Ver1J6RCr5K8NCJKGom5-Ckr9YhRDRkJg3laIhyhZPZ183paNSDEhAyKew" charset="UTF-8"></script><script src="https://kit.fontawesome.com/5a382b57c2.js" crossorigin></script>
+<script src="https://empreender.nyc3.cdn.digitaloceanspaces.com/static/LANDINGPAGE/wow"></script>
+
+<!-- FONTES NORMAIS -->
+<script src="https://kit.fontawesome.com/cdb0b0a676.js" crossorigin="anonymous"></script>
+
+<!-- <script src="https://code.jquery.com/jquery-3.4.1.min.js" type="text/javascript"></script> // removido vitor, sem utilidade-->
+<link rel="stylesheet" type="text/css" href="https://empreender.nyc3.cdn.digitaloceanspaces.com/static/LANDINGPAGE/20230313-140104-3183gz.css" />
+
+		<style>
+		body, html {
+			font-family: 'Nunito', sans-serif;
+		}
+		.is-wrapper {
+			margin: auto !important;
+
+			/* overflow-x: hidden; */
+			/* overflow-y: auto; */
+		}
+
+		/* .mobile .is-wrapper {
+			margin-right: auto !important;
+			margin-left: auto !important;
+		} */
+
+		.mobile-travado .is-wrapper {
+			/* overflow: hidden; */
+			/* height: 100% !important; */
+		}
+		.mobile-apenasmob .is-wrapper {
+			overflow: hidden;
+		}
+		.mobile-desk .is-wrapper{
+			overflow: hidden;
+		}
+
+		@media only screen and (min-width: 1023px) {
+			.is-wrapper {
+				/* overflow: hidden; */
+			}
+		}
+		.esconder {
+			display: none;
+        }
+		.parallax > div > div {
+			/* background-attachment: fixed; */
+			/* background-position: 100% 100% !important; */
+		}
+		/* CSS specific to iOS devices */ 
+		@supports (-webkit-touch-callout: none) {
+			.is-section.section-flex .is-block--flex {
+				align-items: flex-start !important;
+				align-content: flex-start !important;
+			}
+		}
+
+		@media only screen and (max-width: 600px) {
+			.is-wrapper {
+				overflow-x: hidden;
+				overflow-y: hidden;
+			}
+		}
+		
+@media only screen and (max-width: 767px) {
+    .hide-on-mobile {
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .show-on-desktop {
+        display: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .hide-on-mobile {
+        text-indent: -9999px;
+    }
+}
+
+
+		.is-block.contador-novo.contador-landingpage.hide-prod {
+			display: none !important;
+		}
+		</style>
+
+
+		<link href='https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/css/K20bO3w_1679687302.css' rel='stylesheet'></head>
+<body>
+	<script>
+	var telaMobile = false;
+
+	function setMobile() {
+		document.body.classList.add('mobile', 'mobile-travado');
+		document.querySelector('#lp-meta').content = "width=360, user-scalable=yes";
+	}
+
+	function setDesktop() {
+		document.body.classList.remove('mobile', 'mobile-travado', 'mobile-desk');
+		document.querySelector('#lp-meta').content = "width=device-width, initial-scale=1.0";
+
+		telaMobile = false;
+
+	}
+
+	// troca de view mobile/desktop quando faz o resize
+	function checkWidth(forcarMobile = false) {
+		if (forcarMobile) {
+			setMobile();
+		}
+		var width = window.innerWidth;
+
+		if (width >= 1024) {
+			setDesktop();
+		} else {
+			setMobile();
+
+			telaMobile = true;
+
+		}
+	}
+
+	checkWidth();
+
+	// Nome ruim, mas pega os js dos sliders
+	var teste_arr = [];
+</script>
+<main class="is-wrapper"><link href="https://fonts.googleapis.com/css2?family=Nunito&amp;display=swap" rel="stylesheet" type="text/css" id="Nunito" crossorigin="anonymous"><link href="https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400" rel="stylesheet" type="text/css" id="Bebas-Neue" crossorigin="anonymous"><link href="https://fonts.googleapis.com/css2?family=Fjalla+One:wght@400" rel="stylesheet" type="text/css" id="Fjalla-One" crossorigin="anonymous">
+		
+		
+		
+		
+		
+		
+		<div class="is-section type-poppins secao-nao--responsiva g-ZkXr9Sl" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;" id="s-1">
+
+
+    <div class="is-block is-text fit-content overlap g-mdEIZf8 bloco-imagem" style="border-radius: 4px; background: rgba(0, 0, 0, 0.1);" data-mobile="true" data-height="48.99999680478368">
+          <div class="landingpage-widget-imagem">
+            
+        <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/23s34g090618.png" class="g-Uuq8dew" id="img_DhJNn9N" data-width="178">
+    
+          </div>
+        </div>
+</div>
+<div class="is-section g-zAY2RTM secao-nao--responsiva" id="s-2" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+    <div class="is-overlay">
+        <div class="is-image-bg g-Ogyowm9" style="background-image: url(&quot;https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/4uc19t115150.jpg&quot;);"></div>
+    </div>
+
+
+
+    <div class="is-block is-text fit-content g-saVRdH8 wow animated anim_flutante__1" data-height="32.0000018708094" spellcheck="false">
+        <p class="size-28 g-mIuXZEJ active" style="height: 100%; letter-spacing: 0px !important; border-radius: 0px !important; transition: all 0s ease 0s !important;"> Lanterna<br><span style="font-weight: normal;">Ultralux</span></p>
+    </div>
+    <div class="is-block is-text fit-content overlap g-Gpe8eHF bloco-imagem wow d zoomIn animate animated" style="border-radius: 4px; background: none 0% 0% repeat scroll rgba(0, 0, 0, 0.1);" data-mobile="true" data-height="271.9999822632891">
+          <div class="landingpage-widget-imagem">
+            
+        <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/7jhk6x101849.png" class="g-VxJkSv6 wow animated anim_flutante__1" id="img_YDStfsb">
+    
+          </div>
+        </div>
+</div>
+
+
+<div class="is-section g-XJREEEo secao-nao--responsiva" id="s-3" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+    <div class="is-block is-text fit-content video g-bDCi1Vi mob-alterado" data-height="178.99998832767932">
+<div class="iframe-container">
+<iframe width="855" height="485" src="https://www.youtube.com/embed/oTUb1jjLth4?autoplay=1&controls=0&disablekb=1&enablejsapi=1&playsinline=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div>
+</div>
+
+
+
+<div class="is-section g-RIYq0nP secao-nao--responsiva" id="s-4" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+     
+
+    
+<div class="fit-content is-block is-text g-xsE9b5F" data-text="24" spellcheck="false">
+        <p class="active display-text g-WUKxbRs size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Bateria Recarregável</p>
+    </div><div class="is-block is-text fit-content g-PSNUHUo" data-height="44.99999706561764" spellcheck="false">
+        <p class="size-28 g-sSGLFPw active" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Duração média de 4 horas de uso ININTERRUPTO<br>Bateria de incríveis 500ma/h<br></p>
+    </div>
+                <div class="is-block novo-bloco is-text fit-content overlap g-yCtf425 new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#cjQ9ldx)" class="usa-cor-solida null g-TxOq4eV wow animated anim_flutante__3" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="ldyuuBH"></circle>
+
+                <clipPath id="DAksMcq">
+                    <use xlink:href="#ldyuuBH"></use>
+                </clipPath>
+
+                <mask id="PE9VqRy" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="cjQ9ldx" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/urp9h6093351.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="vklAaIU" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#ldyuuBH" stroke="#000" stroke-width="0" clip-path="url(#DAksMcq)"></use>
+            </g>
+        </svg>
+        
+        </div>
+            
+                
+            </div><section class="is-section g-tldHL2S" id="s-ybiGpFM" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden;"><div class="fit-content is-block is-text g-LEXB1kJ new-block-1" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-UaYp64C" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b>À Prova d'água</b></p>
+        </div><div class="is-block is-text fit-content g-WS8oBmo new-block-1" data-height="74.9999951093628" spellcheck="false">
+            <p class="size-28 active g-QqJNTpq" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-mowczER" style="">Você nunca mais ficará no escuro, nem mesmo em dias de chuva.</b></p>
+        </div><div class="is-block is-text fit-content overlap g-TqAMNSb wow d flipInX animate animated is-svg" data-mobile="true" data-height="172.99998871893027">
+
+        <svg viewBox="0 0 500 500" fill="url(#GsJHR9E)" class="usa-cor-solida g-IFUGq42 wow animated anim_flutante__3" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="qDn4CU4"></circle>
+
+                <clipPath id="lY19es6">
+                    <use xlink:href="#qDn4CU4"></use>
+                </clipPath>
+
+                <mask id="GoH2KZo" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="GsJHR9E" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/tgy8vl054508.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="jwSS6xi" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#qDn4CU4" stroke="#000" stroke-width="0" clip-path="url(#lY19es6)"></use>
+            </g>
+        </svg>
+        
+        </div></section><div class="is-section g-RYyuMX2 secao-nao--responsiva" id="s-bFegJmY" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+    
+    
+
+
+
+
+    
+
+    
+
+                
+            
+                
+            
+                
+            <div class="is-block novo-bloco is-text fit-content overlap g-Wb7HkEu new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#drXlmDx)" class="usa-cor-solida null g-XhT1qSQ wow animated anim_flutante__3" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="IDAwho7"></circle>
+
+                <clipPath id="YpOMG3F">
+                    <use xlink:href="#IDAwho7"></use>
+                </clipPath>
+
+                <mask id="iP3oqdW" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="drXlmDx" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/ok5alh102426.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="TDfvW4z" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#IDAwho7" stroke="#000" stroke-width="0" clip-path="url(#YpOMG3F)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="fit-content is-block is-text g-cFOAXwe" data-text="24" spellcheck="false">
+        <p class="active display-text g-Qi3UptV size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Base Regulável</p>
+    </div><div class="is-block is-text fit-content g-lqIsLCn" data-height="44.99999706561764" spellcheck="false">
+        <p class="size-28 g-sPZ6OXy active" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Pode ser apoiado no chão com a base ajustável de 90<span class="fontawesome-glifo" style="">°</span></p>
+    </div>
+            <div class="overlay-forma-inferior g-traKXYS overlay-forma" style="">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1000 100" preserveAspectRatio="none" class="g-ObW6jao" data-forma="piramide">
+	<path d="M761.9,44.1L643.1,27.2L333.8,98L0,3.8V0l1000,0v3.9"></path>
+</svg>
+
+</div>
+    
+            </div>
+
+
+
+
+
+<div class="is-section g-ZnNlAaE secao-nao--responsiva" id="s-6" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: initial; background-image: unset !important;">
+    
+    
+
+                
+            
+                
+            
+                
+            <div class="is-block novo-bloco is-text fit-content overlap g-elP6NBv new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#MmDGTh5)" class="usa-cor-solida null g-TDjMyHJ wow animated anim_flutante__1" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="bkXyRo1"></circle>
+
+                <clipPath id="hq18YyW">
+                    <use xlink:href="#bkXyRo1"></use>
+                </clipPath>
+
+                <mask id="qmV1WKr" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="MmDGTh5" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/26ldk0112300.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="yIYmX85" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#bkXyRo1" stroke="#000" stroke-width="0" clip-path="url(#hq18YyW)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="is-block novo-bloco is-text fit-content overlap g-lx4DpHd new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#HkFkjuG)" class="usa-cor-solida null g-zIM8dgf wow animated anim_flutante__1" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="Dtta2nn"></circle>
+
+                <clipPath id="Zhk61s5">
+                    <use xlink:href="#Dtta2nn"></use>
+                </clipPath>
+
+                <mask id="ckYexwW" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="HkFkjuG" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/de9oj7060023.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="UgFhmVF" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#Dtta2nn" stroke="#000" stroke-width="0" clip-path="url(#Zhk61s5)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="is-block novo-bloco is-text fit-content overlap g-CqKYl6D new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#GGnMvlG)" class="usa-cor-solida null g-zWZB6hZ wow animated anim_flutante__1" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="szYdhar"></circle>
+
+                <clipPath id="AO7Jbds">
+                    <use xlink:href="#szYdhar"></use>
+                </clipPath>
+
+                <mask id="ln1sbLS" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="GGnMvlG" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/8csrxa095945.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="Wav6MTh" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#szYdhar" stroke="#000" stroke-width="0" clip-path="url(#AO7Jbds)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="fit-content is-block is-text g-oWtvmTj new-block-1" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-dlT1Zul" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-sFzWUbG"><i class="g-uzhB1oY" style="">Base Magnética</i></b></p>
+        </div><div class="fit-content is-block is-text g-Mxgb1LR new-block-1" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-ZWFFDiL" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-FzDBQ40"><i class="g-gfFpvos" style="">Abridor de Garrafas</i></b></p>
+        
+
+<div class="fit-content is-block is-text g-SoPHzS2 new-block-1 hide-on-mobile" data-text="24" spellcheck="false">
+    <p class="active display-text size-96 g-dSUGnSn" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-oLN6DTM"><i class="g-seasmOu" style="">Portátil</i></b></p>
+</div>
+
+	   </div><div class="fit-content is-block is-text g-MBgAlNP new-block-1 mob-alterado n-responsive" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-lmGjCZb" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-MaVa6tb" style=""><i class="g-Zfk5Vwy" style="">Portátil</i></b></p>
+        </div><div class="fit-content is-block is-text g-WX7QJyb new-block-1 mob-alterado n-responsive" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-BUBODIc" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-rvPObq0" style=""><i class="g-Wq2OWkP" style="">Abridor de Garrafa</i></b></p>
+        </div></div><div class="is-section g-zMyYa31 secao-nao--responsiva" id="s-5" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden;">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+                
+            
+                
+            
+                
+            
+                
+            <div class="fit-content is-block is-text g-cdelIwU new-block-1" data-text="24" spellcheck="false">
+        <p class="active display-text g-qGVNjl8 size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-ok8jF5b" style="">4 Modos de Luz</b></p>
+    </div><div class="fit-content is-block is-text g-agXja0d" data-text="24" spellcheck="false" data-height="15.999998956664161">
+        <p class="active display-text size-96 g-Cy37E3x" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b>Luz Forte</b></p>
+    </div><div class="fit-content is-block is-text g-eYwgzeX" data-text="24" spellcheck="false" data-height="19.999998695830257">
+        <p class="active display-text size-96 g-qhXyB7N" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b>Luz Média</b></p>
+    </div><div class="fit-content is-block is-text g-bJzEq9J new-block-1" data-text="24" spellcheck="false" data-height="15.999998956663942">
+        <p class="active display-text size-96 g-oNMYBxU" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b>Super Brilho</b></p>
+    </div><div class="is-block novo-bloco is-text fit-content overlap g-Fu0Ln7I new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#bknBWbI)" class="usa-cor-solida null g-tPpPAxP wow animated no" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="Xjt6mMD"></circle>
+
+                <clipPath id="rMAXFaO">
+                    <use xlink:href="#Xjt6mMD"></use>
+                </clipPath>
+
+                <mask id="VsAkgTq" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="bknBWbI" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/zgc1a5100654.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="cISv1DL" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#Xjt6mMD" stroke="#000" stroke-width="0" clip-path="url(#rMAXFaO)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="is-block novo-bloco is-text fit-content overlap g-miLslzf new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#hywyZO0)" class="usa-cor-solida null g-ct9ghkQ" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="ZvuYvMi"></circle>
+
+                <clipPath id="WQHokq1">
+                    <use xlink:href="#ZvuYvMi"></use>
+                </clipPath>
+
+                <mask id="AbEhGV8" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="hywyZO0" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/pe84dy100807.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="Gozijk4" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#ZvuYvMi" stroke="#000" stroke-width="0" clip-path="url(#WQHokq1)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="is-block novo-bloco is-text fit-content overlap g-jyU2yW5 new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#qxwJGg4)" class="usa-cor-solida null g-Tha3PAo" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="VcUAbkX"></circle>
+
+                <clipPath id="imKloZJ">
+                    <use xlink:href="#VcUAbkX"></use>
+                </clipPath>
+
+                <mask id="bllfpvb" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="qxwJGg4" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/d0zsak101213.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="qQt9UOu" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#VcUAbkX" stroke="#000" stroke-width="0" clip-path="url(#imKloZJ)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="fit-content is-block is-text g-iotw6G9" data-text="24" spellcheck="false" data-height="15.999998956663942">
+        <p class="active display-text size-96 g-sIrzli5" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b>Flash</b></p>
+    </div><div class="is-block novo-bloco is-text fit-content overlap g-RfjLphT new-block-1 is-svg">
+
+        <svg viewBox="0 0 500 500" fill="url(#FMbnN1o)" class="usa-cor-solida null g-USY2V4j" xmlns="http://www.w3.org/2000/svg" style="width: 100%;height: auto;">
+            <defs class="defs-paths">
+                <circle cx="250" cy="250" r="250" id="pHG9ItD"></circle>
+
+                <clipPath id="yeBJunA">
+                    <use xlink:href="#pHG9ItD"></use>
+                </clipPath>
+
+                <mask id="OEPj6ZP" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0">
+                    <use xlink:href="#forma-7-path-1"></use>
+                </mask>
+            </defs>
+
+            <defs class="defs-imagem">
+                <pattern id="FMbnN1o" patternContentUnits="objectBoundingBox" width="1" height="1">
+                    <image width="1" height="1" preserveAspectRatio="xMidYMid slice" xlink:href="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/6t7cit100902.png"></image>
+                </pattern>
+            </defs>
+
+            <defs class="fundo-mask">
+                <rect id="TaZTpND" width="100%" height="100%"></rect>
+            </defs>
+
+            <g class="forma" false="">
+                <use xlink:href="#pHG9ItD" stroke="#000" stroke-width="0" clip-path="url(#yeBJunA)"></use>
+            </g>
+        </svg>
+        
+        </div><div class="fit-content is-block is-text g-fdd3JEj new-block-1" data-text="24" spellcheck="false">
+        <p class="active display-text g-qdeN9XJ size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><b class="g-Gg21OGO" style="">800 Lumens de Potência!</b></p>
+    </div>
+                
+            </div><div class="is-section g-xKBRdpB secao-nao--responsiva active" id="s-OcsMMod" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+                
+            <div class="is-block is-text fit-content block-btn bloco-botao g-dqtdn97 wow animated no" spellcheck="true" data-placeholder="Type your text" data-height="39.999997391660074"> <a class="btn g-PiHAbVL active hover-grad infinite" href="https://viral-store6.catalog.yampi.io/lanterna-chaveiro-recarregavel-via-usb-800-lumens-de-potencia/p" data-num="5" style="" title="">Compre agora</a> </div>
+                
+            
+                
+            <div class="fit-content is-block is-text g-hYOx8K0 new-block-1" data-text="24" spellcheck="false" data-fonte-index="55" data-weightaceitos="400">
+            <p class="active display-text size-96 g-AsnIBVB" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;"><i class="g-jk4JewQ" style="">Não pague pelo frete!</i></p>
+        </div>
+                
+            
+                
+            <div class="fit-content is-block is-text g-njmU8MR new-block-1 wow animated bounce" data-text="24" spellcheck="false">
+        <p class="active display-text g-LAdmRnp size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;" data-settings-sombra="%5B%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22rgba(0%2C%200%2C%200%2C%201)%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%226px%22%2C%22x%22%3A1.584301464266917%2C%22y%22%3A12.903099971337186%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A13%2C%22angulo%22%3A7%7D%2C%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22%2300000000%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%220%22%2C%22x%22%3A0%2C%22y%22%3A0%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A0%2C%22angulo%22%3A0%7D%2C%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22%2300000000%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%220%22%2C%22x%22%3A0%2C%22y%22%3A0%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A0%2C%22angulo%22%3A0%7D%5D"><b class="g-pvtTpGk" style=""><u>46.90</u></b></p>
+    </div><div class="fit-content is-block is-text g-neVJN5u new-block-1 wow animated bounce" data-text="24" spellcheck="false">
+        <p class="active display-text g-bxW5HTb size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;" data-settings-sombra="%5B%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22rgba(0%2C%200%2C%200%2C%201)%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%226px%22%2C%22x%22%3A1.584301464266917%2C%22y%22%3A12.903099971337186%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A13%2C%22angulo%22%3A7%7D%2C%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22%2300000000%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%220%22%2C%22x%22%3A0%2C%22y%22%3A0%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A0%2C%22angulo%22%3A0%7D%2C%7B%22el%22%3A%7B%7D%2C%22cor%22%3A%22%2300000000%22%2C%22spread%22%3A%220%22%2C%22blur%22%3A%220%22%2C%22x%22%3A0%2C%22y%22%3A0%2C%22dist%22%3A%5B%5D%2C%22left%22%3A55.5%2C%22top%22%3A55.5%2C%22distancia%22%3A0%2C%22angulo%22%3A0%7D%5D"><span class="g-GXr7nuv" style=""><i class="g-xHHboaw" style=""><strike>79.90</strike></i></span></p>
+    </div><div class="is-block novo-bloco bloco-imagem is-text fit-content overlap g-xFvyoL9 new-block-1">
+          <div class="landingpage-widget-imagem">
+            
+                    <img loading='lazy' style="width: 100%; height:100%;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/hfzx6q103130.png" class="wow animated rotateIn g-Apj2hNa" id="img_qtVLAvQ">
+                
+          </div>
+        </div><div class="fit-content is-block is-text g-MxcgCeg new-block-1 mob-alterado n-responsive" data-text="24" spellcheck="false">
+        <p class="active display-text g-JK50A1K size-96" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">NÃO PAGUE PELO FRETE</p>
+    </div></div>
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+                
+                
+
+
+
+
+
+
+
+
+        
+        
+                
+                
+
+
+
+
+
+        
+        
+        
+        <section class="is-section g-YPlABd9 section-flex secao-5--nova--grid" id="s-uBEjTi5" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;">
+
+        <div class="is-block--flex v1 col-2">
+            
+            <div class="is-block is-text fit-content overlap bloco-imagem g-maKHErj" data-mobile="true" data-height="50.000001730021495" data-align="center">
+          <div class="landingpage-widget-imagem">
+            
+            <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/3ipdu8034650.png" class="g-jpoZXgA" draggable="false">
+        
+          </div>
+        </div><div class="fit-content is-block is-text g-CJueVVR" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-pea7RHm" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Frete GRÁTIS</p>
+        </div><div class="is-block is-text fit-content g-yyaoHwY" data-height="175.99998904975863" spellcheck="false">
+            <p class="size-28 active g-AQFzajs" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Grátis para todo o Brasil</p>
+        </div>
+        </div>
+        <div class="is-block--flex v1 col-3">
+            
+            <div class="is-block is-text fit-content overlap bloco-imagem g-OxeH5Gi" data-mobile="true" data-height="50.000001730021495">
+          <div class="landingpage-widget-imagem">
+            
+            <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/niki25034700.png" class="g-QCMVcZn" draggable="false">
+        
+          </div>
+        </div><div class="fit-content is-block is-text g-wyvPxdf" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-RKzYUWm" style="height: auto; border-radius: 0px !important; transition: all 0s ease 0s !important;">Rastreio</p>
+        </div><div class="is-block is-text fit-content g-bg0fX32" data-height="175.99998904975863" spellcheck="false">
+            <p class="size-28 active g-wpJlJSi" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">No site da loja</p>
+        </div>
+        </div>
+    </section>
+        <section class="is-section g-XPD5Euf section-flex secao-5--nova--grid" style="pointer-events: none; transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; background-image: unset !important;" id="s-ivEP6vu">
+
+        <div class="is-block--flex v1 col-2">
+            
+            <div class="is-block is-text fit-content overlap bloco-imagem g-mXewssW" data-mobile="true" data-height="57.00000197222417">
+          <div class="landingpage-widget-imagem">
+            
+            <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/kj5tsy034706.png" class="g-cCBfSRA" draggable="false">
+        
+          </div>
+        </div><div class="fit-content is-block is-text g-FJ9ozf3" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-ZSJ13ir" style="height: auto; border-radius: 0px !important; transition: all 0s ease 0s !important;">Desconto PIX</p>
+        </div><div class="is-block is-text fit-content g-NuDtLWO" data-height="175.99998904975863" spellcheck="false">
+            <p class="size-28 active g-PQgxmzY" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Desconto de 5% no PIX</p>
+        </div>
+        </div>
+        <div class="is-block--flex v1 col-3">
+            
+            <div class="is-block is-text fit-content overlap bloco-imagem g-Ydwc5E6" data-mobile="true" data-height="49.00000169542151">
+          <div class="landingpage-widget-imagem">
+            
+            <img loading='lazy' style="width: 100%; height: auto;" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/landingpage/landingpage/s64q62034713.png" class="g-mHZmkKQ" draggable="false">
+        
+          </div>
+        </div><div class="fit-content is-block is-text g-swX42EK" data-text="24" spellcheck="false">
+            <p class="active display-text size-96 g-PG6OJRf" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">Prazo de entrega</p>
+        </div><div class="is-block is-text fit-content g-fQdigiz" data-height="175.99998904975863" spellcheck="false">
+            <p class="size-28 active g-cpkE8Gq" style="height: 100%; border-radius: 0px !important; transition: all 0s ease 0s !important;">De 10 a 15 dias</p>
+        </div>
+        </div>
+    </section>	
+            
+        <div class="btn-whatsapp btn-whatsapp-2 g-nv1b6n0 infinite">
+                <a href="https://wa.me/+553438143203" target="_blank" class="g-YZSiy0q" data-numero="+553438143203">
+                    <i style="font-size: 36px;" class="fab fa-whatsapp" aria-hidden="true"></i>
+                    <span> Whatsapp </span>
+                </a>
+            </div></main><script type="text/javascript" src="https://empreender.nyc3.cdn.digitaloceanspaces.com/static/LANDINGPAGE/20230215-115140-1566_gz.js"></script>
+
+<script id="_content_js">
+	
+	var apenasMobile = 0
+	if(apenasMobile === 1) {
+		setMobile();
+
+		document.body.classList.add('mobile-apenasmob')
+
+	}else {
+		window.addEventListener('resize', () => checkWidth());
+	}
+
+	var mobileNaoTravado = false;
+
+	if(window.innerWidth > 1024 && apenasMobile === 1) {
+		document.body.classList.add('mobile', 'mobile-desk');
+		document.body.classList.remove('mobile-travado');
+		mobileNaoTravado = true;
+	}
+
+	// se caso o mobile não seja travado mas esteja no mobile ele irá forçar os sliders a ter 1 visualização
+	if(window.innerWidth < 1024) {
+		apenasMobile = 1;
+		mobileNaoTravado = false
+	}
+</script>
+<!-- <script src="https://app.landingpage.com.br/construtor/assets/js/galeria.js"></script> -->
+<!-- <script src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.js"></script> -->
+<!-- script dos blocos de progresso, não pode ficar no editor e por isso está aqui rsrs -->
+<script src="https://empreender.nyc3.cdn.digitaloceanspaces.com/static/LANDINGPAGE/script-progresso"></script>
+<script>
+	// força as animações independende o overflow
+	new WOW({
+		scrollContainer: '.is-wrapper',
+		offset: 50}).init();
+	new WOW({
+		scrollContainer: null,
+		offset: 50,
+	}).init();
+
+	new WOW({
+		scrollContainer: 'body',
+		offset: 50,
+	}).init();
+	
+</script>
+
+<script>
+	// força os sliders a ficarem com apenas 1 visualização caso o mobile esteja travado
+	window.addEventListener('load', () => {
+		if(teste_arr) {
+			teste_arr?.forEach(slider => {
+				if(apenasMobile === 1) {
+					slider.glide.update({
+						perView: 1,
+					});
+				}else {
+					// mesmo salvando o perview errado no mobile ele irá colocar o correto aqui
+					slider.glide.update({
+						perView: slider.perView,
+					});
+				}
+			});
+		}
+	});
+</script>
+
+<!-- parallax dos blocos -->
+<script>
+	const scene = document.querySelectorAll('.is-section');
+
+	if(window.Parallax) {
+		scene.forEach(secao => {
+			const parallaxInstance = new Parallax(secao);
+		});
+	}
+</script>		<!--	0.01452898979187	-->
+</body>
+</html>
